@@ -25,9 +25,9 @@
 	"imageUrl": "https://rosaquiroz31.files.wordpress.com/2012/11/juegos05.jpg"
 }, {
 	"id": 6,
-	"name": "SV Darmstadt 98",
-	"shortName": "Darmstadt",
-	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Darmstadt_98_football_club_new_logo_2015.png/300px-Darmstadt_98_football_club_new_logo_2015.png"
+	"name": "Lecturas que podrian interesarte",
+	"shortName": "Aca encontraran enlaces que podran ayudarte con tus alumnos",
+	"imageUrl": "https://miedohablarenpublico.files.wordpress.com/2012/08/el-mejor-libro-sobre-cc3b3mo-hablar-en-pc3bablico.jpg?w=270&h=240"
 }, {
 	"id": 7,
 	"name": "Mis tareas del dia ",
@@ -38,30 +38,4 @@
 	"name": "Ejercicios para la Motricidad",
 	"description": "Todo tipo de ejercicios que hacen que el niño motive y promueva el uso de todas sus extremidades.",
 	"imageUrl": "https://4.bp.blogspot.com/-SHKLzHoxa2M/Vr4o72y6OqI/AAAAAAAAZQ8/_w5e9HAnI2g/s320/a1400%2Bmotricidad%2Bgruesa.png"
-}, {
-}, {
-	"id": 9,
-	"name": "Hertha BSC",
-	"description": "Hertha",
-	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/300px-Hertha_BSC_Logo_2012.svg.png"
-}, {
-	"id": 10,
-	"name": "TSG 1899 Hoffenheim",
-	"description": "TSG",
-	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TSG_Logo-Standard_4c.png/251px-TSG_Logo-Standard_4c.png"
-}, {
-	"id": 11,
-	"name": "FC Schalke 04",
-	"description": "S04",
-	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/300px-FC_Schalke_04_Logo.svg.png"
-}, {
-	"id": 12,
-	"name": "SV Werder Bremen",
-	"description": "Werder Bremen",
-	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/199px-SV-Werder-Bremen-Logo.svg.png"
-}, {
-	"id": 13,
-	"name": "VfL Wolfsburg",
-	"description": "VfL",
-	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/300px-Logo-VfL-Wolfsburg.svg.png"
 }]
